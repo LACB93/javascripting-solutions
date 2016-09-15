@@ -1,0 +1,23 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "Soluciones de javascripting",
+  "main": "accediendo-valores-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LACB93/javascripting-solutions.git"
+  },
+  "keywords": [
+    "javascripting",
+    "solutions"
+  ],
+  "author": "luis.cruzbenitez@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LACB93/javascripting-solutions/issues"
+  },
+  "homepage": "https://github.com/LACB93/javascripting-solutions#readme"
+}
